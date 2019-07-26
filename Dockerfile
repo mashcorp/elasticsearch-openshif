@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:5.5.1
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.2.0
 
 USER root
 
